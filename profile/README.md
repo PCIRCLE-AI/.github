@@ -1,15 +1,17 @@
 # PCIRCLE-AI
 
-PCIRCLE-AI builds practical open-source tools for AI coding workflows, MCP, and developer operations.
+[English](./README.md) | [繁體中文](./README.zh-TW.md)
 
-The goal is not to publish generic AI demos. The goal is to ship tools that help real developers and operators work with AI systems more reliably.
+PCIRCLE-AI builds practical open-source tools for AI workflows, MCP, developer operations, and operational intelligence.
+
+The goal is not to publish generic AI demos. The goal is to ship tools that help real developers, operators, and teams work with AI systems more reliably and make better decisions in real operating environments.
 
 ## Focus Areas
 
 - MCP servers and supporting tooling
 - workflow systems for AI coding agents
 - developer-facing operational infrastructure
-- applied AI products with real integration surfaces
+- operational intelligence and decision-support tooling
 
 ## Featured Repositories
 
