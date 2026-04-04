@@ -2,24 +2,24 @@
 
 [English](./README.md) | [繁體中文](./README.zh-TW.md)
 
-PCIRCLE-AI builds practical open-source tools for AI workflows, MCP, developer operations, and operational intelligence.
+PCIRCLE-AI publishes open-source tooling that supports practical AI systems in real operations.
 
-The goal is not to publish generic AI demos. The goal is to ship tools that help real developers, operators, and teams work with AI systems more reliably and make better decisions in real operating environments.
+The goal is not generic AI demos. The goal is reusable infrastructure that helps AI workflows become more structured, more auditable, and more useful in real teams.
 
 ## Focus Areas
 
-- MCP servers and supporting tooling
-- workflow systems for AI coding agents
-- developer-facing operational infrastructure
-- operational intelligence and decision-support tooling
+- workflow systems for AI coding agents and operator tooling
+- MCP tooling and integration surfaces
+- audit, governance, and operational visibility for AI use
+- reusable building blocks that support practical AI systems in workflow-heavy environments
 
-## Featured Repositories
+## Featured Public Repositories
 
 ### [toonify-mcp](https://github.com/PCIRCLE-AI/toonify-mcp)
-MCP server that reduces Claude API token usage with TOON format optimization.
+MCP server for TOON-based token optimization in Claude and agent workflow pipelines.
 
 ### [footprint-mcp](https://github.com/PCIRCLE-AI/footprint-mcp)
-Encrypted audit trails and recall for CLI AI conversations.
+Tamper-evident audit trail infrastructure for AI conversations and actions in CLI workflows.
 
 ### [claude-code-buddy](https://github.com/PCIRCLE-AI/claude-code-buddy)
 Persistent memory plugin for Claude Code with knowledge graph, semantic search, hooks, and session recall.
@@ -27,14 +27,12 @@ Persistent memory plugin for Claude Code with knowledge graph, semantic search, 
 ### [linekit](https://github.com/PCIRCLE-AI/linekit)
 Modular integration toolkit for LINE Messaging API, Login, and LIFF.
 
-## What We Value
+## How This Connects to pcircle.ai
 
-- production-minded design over toy workflows
-- clear operator visibility and safe upgrade paths
-- reusable tooling instead of one-off glue
-- practical systems that can survive real usage
+PCIRCLE-AI is the open-source tooling layer behind the broader [pcircle.ai](https://pcircle.ai) direction: practical AI systems for workflow-heavy industries, with current commercial focus on construction and manufacturing.
 
-## Elsewhere
+## Contact
 
+- Email: hello@pcircle.ai
 - Founder profile: [@kevintseng](https://github.com/kevintseng)
 - Website: [pcircle.ai](https://pcircle.ai)
