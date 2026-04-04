@@ -2,24 +2,24 @@
 
 [English](./README.md) | [繁體中文](./README.zh-TW.md)
 
-PCIRCLE-AI 專注於打造面向 AI workflows、MCP、developer operations 與 operational intelligence 的實用型開源工具。
+PCIRCLE-AI 發佈支援真實營運場景中實用 AI 系統的開源工具。
 
-我們的目標不是發布泛泛的 AI demo，而是交付真正能幫助開發者、操作人員與團隊在真實營運環境中更可靠地使用 AI 系統、並做出更好決策的工具。
+我們的目標不是做泛泛的 AI demo，而是打造可重用的基礎設施，讓 AI workflow 在真實團隊裡更有結構、可稽核、也更有實際價值。
 
 ## 聚焦方向
 
-- MCP servers 與相關 tooling
-- AI coding agents 的 workflow systems
-- developer-facing operational infrastructure
-- operational intelligence 與 decision-support tooling
+- AI coding agents 與 operator tooling 的 workflow systems
+- MCP 工具與整合介面
+- AI 使用情境中的稽核、治理與營運可見度
+- 支援流程密集場域中實用 AI 系統的可重用元件
 
-## 代表性專案
+## 精選公開專案
 
 ### [toonify-mcp](https://github.com/PCIRCLE-AI/toonify-mcp)
-透過 TOON 格式優化降低 Claude API token 使用量的 MCP server。
+以 TOON 格式優化降低 Claude 與 agent workflow token 成本的 MCP server。
 
 ### [footprint-mcp](https://github.com/PCIRCLE-AI/footprint-mcp)
-為 CLI AI 對話提供加密稽核軌跡與回溯能力。
+為 AI 對話與動作建立可驗證稽核軌跡的基礎設施，適合 CLI workflow 使用。
 
 ### [claude-code-buddy](https://github.com/PCIRCLE-AI/claude-code-buddy)
 為 Claude Code 提供知識圖譜、語意搜尋、hooks 與 session recall 的持久記憶外掛。
@@ -27,14 +27,12 @@ PCIRCLE-AI 專注於打造面向 AI workflows、MCP、developer operations 與 o
 ### [linekit](https://github.com/PCIRCLE-AI/linekit)
 模組化的 LINE Messaging API、Login 與 LIFF 整合工具包。
 
-## 我們重視什麼
+## 它和 pcircle.ai 的關係
 
-- production-minded 的設計，而不是玩具型 workflow
-- 清楚的 operator visibility 與安全的 upgrade 路徑
-- 可重用的 tooling，而不是一次性的膠水程式
-- 經得起真實使用的實用型系統
+PCIRCLE-AI 是更大方向 [pcircle.ai](https://pcircle.ai) 的開源工具層。pcircle.ai 目前的商業主軸是面向建設營造與製造業等流程密集產業的實用 AI 系統。
 
-## 其他連結
+## 聯絡方式
 
+- Email: hello@pcircle.ai
 - Founder profile: [@kevintseng](https://github.com/kevintseng)
 - Website: [pcircle.ai](https://pcircle.ai)
