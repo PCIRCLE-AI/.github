@@ -18,9 +18,6 @@ The goal is not generic AI demos. The goal is reusable infrastructure that helps
 ### [toonify-mcp](https://github.com/PCIRCLE-AI/toonify-mcp)
 MCP server for TOON-based token optimization in Claude and agent workflow pipelines.
 
-### [footprint-mcp](https://github.com/PCIRCLE-AI/footprint-mcp)
-Tamper-evident audit trail infrastructure for AI conversations and actions in CLI workflows.
-
 ### [memesh-llm-memory](https://github.com/PCIRCLE-AI/memesh-llm-memory)
 The lightest universal AI memory layer. One SQLite file, any LLM, zero cloud. MCP + HTTP + CLI. Smart Recall, Knowledge Evolution, Auto-Capture, Interactive Dashboard.
 
