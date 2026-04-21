@@ -21,8 +21,8 @@ MCP server for TOON-based token optimization in Claude and agent workflow pipeli
 ### [footprint-mcp](https://github.com/PCIRCLE-AI/footprint-mcp)
 Tamper-evident audit trail infrastructure for AI conversations and actions in CLI workflows.
 
-### [claude-code-buddy](https://github.com/PCIRCLE-AI/claude-code-buddy)
-Persistent memory plugin for Claude Code with knowledge graph, semantic search, hooks, and session recall.
+### [memesh-llm-memory](https://github.com/PCIRCLE-AI/memesh-llm-memory)
+The lightest universal AI memory layer. One SQLite file, any LLM, zero cloud. MCP + HTTP + CLI. Smart Recall, Knowledge Evolution, Auto-Capture, Interactive Dashboard.
 
 ### [linekit](https://github.com/PCIRCLE-AI/linekit)
 Modular integration toolkit for LINE Messaging API, Login, and LIFF.
