@@ -21,8 +21,8 @@ PCIRCLE-AI 發佈支援真實營運場景中實用 AI 系統的開源工具。
 ### [footprint-mcp](https://github.com/PCIRCLE-AI/footprint-mcp)
 為 AI 對話與動作建立可驗證稽核軌跡的基礎設施，適合 CLI workflow 使用。
 
-### [claude-code-buddy](https://github.com/PCIRCLE-AI/claude-code-buddy)
-為 Claude Code 提供知識圖譜、語意搜尋、hooks 與 session recall 的持久記憶外掛。
+### [memesh-llm-memory](https://github.com/PCIRCLE-AI/memesh-llm-memory)
+MeMesh LLM Memory 讓每個 AI 都能擁有持久、可搜尋、持續進化的記憶。
 
 ### [linekit](https://github.com/PCIRCLE-AI/linekit)
 模組化的 LINE Messaging API、Login 與 LIFF 整合工具包。
